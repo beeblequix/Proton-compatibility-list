@@ -61,6 +61,7 @@ This is a list containing all results I can find on the internet. Help by correc
 |2|Risen 3||works perfectly
 |2|Sanctum||works perfectly|
 |2|Shantae: Risky's Revenge - Director's Cut||works perfectly|
+|2|Sid Meier's Civilization IV Beyond the Sword|Linux Mint 19.3 Cinnamon Ryzen 1600X 16GB DDR4 2400 RX480 8GB|works perfectly|
 |2|Skyrim SE||works perfectly|
 |2|South Park: The Stick of Truth||works perfectly|
 |2|Spelunky||works perfectly|
